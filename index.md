@@ -11,6 +11,7 @@ I am Saber Jelodari, a bachelor student in biomedical engineering at Azad Univer
 ### My projects
 
 So far I have experince of working on various system projects from collecting data to analysis using Wavelet-Transform and buidling signal processing systems in Matlab.
+[Post 1: FPGAs vs Processors!](https://github.com/sjelodari/sjelodari.github.io/blob/master/posts/fpga-vs-processor.md)
 
 ### References
 
