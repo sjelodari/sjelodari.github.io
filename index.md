@@ -1,6 +1,6 @@
 ## Welcome to Saber's personal website
 
-I am Saber Jelodari, a bachelor student in biomedical engineering at Azad University of Tabriz (EAUT).
+I am Saber Jelodari, a bachelor student in biomedical engineering at Islamic Azad University of Tabriz (IAUT).
 
 ### Research Interests
 
