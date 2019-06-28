@@ -18,7 +18,10 @@ Post 1: In this project I have looked into comparing performance of a simple imp
 Post 2: In this project I have worked on training a neural network to detect images in a particular dataset using Matlab.
 [Post 2: Detect Images Using Matlab!](./posts/image-detect.md)
 
-
+### Workshops
+Neurosonology Workshop , Iranian National Library Congress Center,Tehran Iran  March 2017 [the certification image]
+"Introdoction to Biomedical Signal Processing using Matlab and its application in Neuroscience ,March 2018 , NBML (National Brain Mapping Lab) , Tehran , Iran [the certification image]
+"How to find out a Sonography device's defects and subsequently repair and service the device" March 2019 , Mehrad Research Lab , Tabriz ,Iran [the certification image]
 ### References
 
 References are available upon request.
